@@ -1,0 +1,283 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The cloaks knavery</title>
+         </titleStmt>
+         <extent>Approx. 5KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B20414</idno><idno type="EEBO-CITATION">99828854</idno>
+  <idno type="VID">198167</idno>
+  <idno type="EEBO-PROQUEST">2240869892</idno>
+  
+            <idno type="STC">Wing C4721</idno>
+            <idno type="PROQUEST">99828854</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99828854e"/>
+            <note>(EEBO-TCP ; phase 2, no. B20414)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 198167)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 21232:394)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The cloaks knavery</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.) : engr. music  </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1660?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imprint from Wing.</note>
+                  <note>Engraved music above title.</note>
+                  <note>Verse - "Come buy my new ballad,".</note>
+                  <note>An attack on the presbyterians' part in the commonwealth.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Presbyterianism --  Controversial literature --  Early works to 1800.</term>
+               <term type="geographic_name">Great Britain --  History --  Commonwealth and Protectorate, 1649-1660 --  Poetry --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-02 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-04 </date>
+            <label>Mona Logarbo </label>Sampled and proofread </change>
+         <change>
+            <date>2014-04 </date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="ballad">
+            <pb facs="tcp:198167:1"/>
+            <gap reason="music">
+               <desc>〈♫〉</desc>
+            </gap>
+            <argument>
+               <p>
+                  <gap reason="music">
+                     <desc>〈♫〉</desc>
+                  </gap>
+                  <q>
+                     <l>Come buy my new Ballad</l>
+                     <l>I have't in my Wallet,</l>
+                     <l>But 'twill not I fear please every Palate:</l>
+                     <l>Then mark what ensu'th,</l>
+                     <l>I swear by my youth,</l>
+                     <l>That every line in my Ballad is truth:</l>
+                     <l>A Ballad of wit, a brave Ballad of worth:</l>
+                     <l>'Tis newly printed, and newly come forth.</l>
+                     <l>'Twas made of a Cloak that fell out with a Gown,</l>
+                     <l>That crampt all the Kingdom and crippl'd the Crown.</l>
+                  </q>
+               </p>
+            </argument>
+            <head>THE CLOAK'S KNAVERY.</head>
+            <lg>
+               <l>COME buy my New Ballad,</l>
+               <l>I have't in my Wallet,</l>
+               <l>Tho twill not, I fear, please every Palate:</l>
+               <l>Then mark what ensu'th,</l>
+               <l>For I swear by my Youth,</l>
+               <l>That every Line in my Ballad is Truth:</l>
+               <l>A Ballad of Wit, a brave Ballad of Worth,</l>
+               <l>'Tis newly Printed and newly come Forth.</l>
+               <l>'Twas made of a Cloak that fell out with the Gown,</l>
+            </lg>
+            <lg type="refrain">
+               <l>That cramp'd all the <hi>Kingdom</hi> and crippl'd the <hi>Crown.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>Ill tell you in Brief</l>
+               <l>A Story of Grief</l>
+               <l>That happen'd when Cloak was Commander in Chief:</l>
+               <l>It tore Common- Pray'rs,</l>
+               <l>Imprison'd Lord Mayors,</l>
+               <l>In one Day it voted down Prelates and Play'rs,</l>
+               <l>It made People perjur'd in Point of Obedience,</l>
+               <l>And the Cov'nant did cut off the Oath of Allegiance.</l>
+            </lg>
+            <lg type="refrain">
+               <l>Then let us endeavour to pull the <hi>Cloak</hi> down,</l>
+               <l>That cramp'd, <hi>&amp;c.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>It was a Black Cloak,</l>
+               <l>In good Time be it spoke</l>
+               <l>It kill'd many Thousands, but never struck Stroke;</l>
+               <l>With Hatchet and Rope,</l>
+               <l>The forlorn Hope,</l>
+               <l>It join'd with the Devil to pull down the Pope;</l>
+               <l>It set all the Sects in the City to Work,</l>
+               <l>And rather than fail 'twould have brought in the Turk.</l>
+            </lg>
+            <lg type="refrain">
+               <l>Then let us Endeavour, <hi>&amp;c.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>It Seiz'd on the Tow'r Guns,</l>
+               <l>Those fierce Demi-gorgons,</l>
+               <l>It set up the Bag-pipes, but pull'd down the Organs,</l>
+               <l>The Pulpits did Smoak,</l>
+               <l>Our church it did Choak,</l>
+               <l>And all our Religion was turned to a Cloak;</l>
+               <l>It brought in lay Elders could not Write or Read:</l>
+               <l>It set publick Faith up, but pull'd down the Creed;</l>
+            </lg>
+            <lg type="refrain">
+               <l>Then let us endeavour, <hi>&amp;c.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>This Pious Impostor</l>
+               <l>Such Fury did Foster,</l>
+               <l>It left us no Penny nor no Pater Noster;</l>
+               <l>It threw to the Ground</l>
+               <l>Ten Commandments down,</l>
+               <l>And set up twice Twenty Times Ten of its own:</l>
+               <l>It routed the King and Villains elected</l>
+               <l>To plunder all those whom they thought Disaffected</l>
+            </lg>
+            <lg type="refrain">
+               <l>Then let us Endeavour, <hi>&amp;c</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>To blind Peoples Eyes</l>
+               <l>This Cloak was so Wise,</l>
+               <l>It took off Ship Money, but set up Excise:</l>
+               <l>Men brought in their Plate</l>
+               <l>For Reasons of State</l>
+               <l>And gave it to Tom Trumpete<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> and his Mate:</l>
+               <l>In Pamphlets it wrote many specious Epistles</l>
+               <l>To Couzen poor Wenches of Bodkins and Whistles.</l>
+            </lg>
+            <lg type="refrain">
+               <l>Then let us Endeavour, <hi>&amp;c.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>In Pulpits it moved,</l>
+               <l>And was much Approved</l>
+               <l>For Crying out, Fight the <gap reason="illegible" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> Battles beloved;</l>
+               <l>It Bobtail'd the Gown,</l>
+               <l>Pull'd Prelacy down,</l>
+               <l>It trode on the Mitre to reach at the Crown;</l>
+               <l>And into the Field it an Army did bring</l>
+               <l>To aim at the Council but shoot at the King.</l>
+            </lg>
+            <lg type="refrain">
+               <l>Then let us Endeavour, <hi>&amp;c.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>It raised up States</l>
+               <l>Whose Politick Pates</l>
+               <l>Do now keep their Quarters on our City Gates;</l>
+               <l>To Father and Mother</l>
+               <l>To Sister and Brother</l>
+               <l>It gave a Commission to kill one another:</l>
+               <l>It took up Men's Horses at very low Rates</l>
+               <l>And Plunder'd our Goods to se<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ure our Estates.</l>
+            </lg>
+            <lg type="refrain">
+               <l>Then let us Endeavour, <hi>&amp;c.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>This Cloak did proceed</l>
+               <l>To a Damnable Deed,</l>
+               <l>It made the best Mirrour of Majesty Bleed:</l>
+               <l>Tho' Cloak did not do't</l>
+               <l>It set it on Foot</l>
+               <l>By rallying and calling his Journey Men to't:</l>
+               <l>For never had come such a bl<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>dy Disaster</l>
+               <l>If Cloak had not first drawn a Sword at his Master.</l>
+            </lg>
+            <lg type="refrain">
+               <l>Then let us Endeavour, <hi>&amp;c.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>Tho some of 'em went hence</l>
+               <l>By sorrowful Sentence,</l>
+               <l>This lofty long Cloak is not mov'd to Repentance;</l>
+               <l>But he and his Men,</l>
+               <l>Twenty Thousand times Ten,</l>
+               <l>Are Ploting to do their Tricks over again:</l>
+               <l>But let this proud Cloak to Authority stoop,</l>
+               <l>Or Catch will provide him a Button and Loop,</l>
+            </lg>
+            <lg type="refrain">
+               <l>For we'll ever endeavour, <hi>&amp;c.</hi>
+               </l>
+            </lg>
+         </div>
+      </body>
+   </text>
+</TEI>
